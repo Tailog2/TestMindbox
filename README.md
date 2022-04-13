@@ -1,2 +1,1 @@
-# TestMindbox
-This repo contains MS SQL query for Mindbox Test
+# This repo contains MS SQL query for Mindbox Test
